@@ -1,5 +1,7 @@
 # New Tab
 
+> **Archived:** This extension is now maintained in the [browser-extensions monorepo](https://github.com/mynameistito/browser-extensions/tree/main/apps/new-tab-ext). This repository is read-only; use the monorepo for future development and releases.
+
 A local-first browser new-tab dashboard built with WXT, React, and Effect.
 
 ## Development
